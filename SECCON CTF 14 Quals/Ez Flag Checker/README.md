@@ -1,8 +1,6 @@
 # Ez Flag Checker
 59 points
 
----
-
 ## Write Up
 
 ### 準備
