@@ -5,8 +5,8 @@ import time
 import sys
 
 # サーバー情報
-HOST = 'yukari-infinity.seccon.games'
-PORT = 13910
+HOST = 'yukari.seccon.games'
+PORT = 15809
 
 def count_trailing_zeros(x):
     """x を 2 で割り切れる回数 (v2) を返す"""
