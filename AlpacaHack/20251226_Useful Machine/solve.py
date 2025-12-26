@@ -19,4 +19,5 @@ while not fin_flag:
                 print(f"Found so far: {flag} (steps: {step})")
                 if c == "}":
                     fin_flag = True
+                break
     
